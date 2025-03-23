@@ -1,5 +1,3 @@
-# Oluwadamilare Babalola
-
 # 💫 About Me:
 Hi there! I'm Oluwadamilare Babalola, a passionate Full-Stack software developer with a drive to create innovative solutions. With a strong foundation in TypeScript and JavaScript, I've honed my skills in frameworks like React, Node.js, CSS, PHP and more.<br><br>I'm all about crafting exceptional user experiences, solving complex problems, and continuously learning. When I'm not coding, you can find me exploring new technologies, attending industry events, or collaborating with fellow developers.<br><br>Let's connect and build something amazing together!<br><br>Tech Stack:Frontend <br>  React JS<br>  React Native<br>  JavaScript <br>  HTML <br>  CSS <br>  Tailwind CSS.<br><br>Backend <br>  Node JS (Express JS)<br>  PHP <br>  Firebase <br>  MySQL<br>  PostgreSQL<br>  RESTful APIs.
 
